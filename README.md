@@ -1,1 +1,1 @@
-# kontent-custom-element-mathjax
+# kontent-custom-element-externalimage
